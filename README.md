@@ -12,3 +12,4 @@
 - then i went back to my EC2 intance to copy my IPV4 address, went to the browser and paste it adding ":3000" that is the path.
 - and it was successful, see image below
   
+![Screenshot (18)](https://github.com/Kingofhull/docker-node-js-image/assets/135378776/8ef35a91-ff39-4030-a7a8-82a066695f3d)
